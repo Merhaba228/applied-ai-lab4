@@ -14,5 +14,5 @@ stages:
     outs:
     - path: data/processed/nyc_taxi_clean.csv
       hash: md5
-      md5: d00e750c66fdc242b91aeb3bbfd34ab9
-      size: 196990281
+      md5: 65ee6b33e1e9962d3178bcfad2e81704
+      size: 197112852

@@ -1,2 +1,7 @@
 data/processed/
 .dvc/cache/
+.venv/
+__pycache__/
+mlflow.db*
+mlruns/
+mlartifacts/
